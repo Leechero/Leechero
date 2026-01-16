@@ -15,7 +15,7 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 |-----------------------------------------------|----------------------------|
 | Policy Implementation & Compliance                      | <a href="https://github.com/Leechero/Password-Policy-Enforcer">Password Policy Enforcer</a>|
 | Pattern Recognition & Anomaly Detection  | <a href="https://github.com/Leechero/Brute-Force-Detection-Script">Brute Force Detection</a>|
-| Threat Awareness & Analytical Thinking         | Phishing Email Identifier|
+| Threat Awareness & Analytical Thinking         | <a href="https://github.com/Leechero/Phishing-Email-Identifier">Phishing Email Identifier</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Network Security                  | Simple Home Lab Firewall Rules|
 | Vulnerability Assessment | Vulnerability Scan Walkthrough|
@@ -67,4 +67,4 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 ## Projects
 - <a href="https://github.com/Leechero/Password-Policy-Enforcer">Password Policy Enforcer</a>
 - <a href="https://github.com/Leechero/Brute-Force-Detection-Script">Brute Force Detection</a>
-- Phishing Email Identifier
+- <a href="https://github.com/Leechero/Phishing-Email-Identifier">Phishing Email Identifier</a>
