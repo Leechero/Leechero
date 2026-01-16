@@ -19,6 +19,7 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Network Security                  | Simple Home Lab Firewall Rules|
 | Vulnerability Assessment | Vulnerability Scan Walkthrough|
+| Cloud                    | Deployed EC2 Instance on AWS |
 
 ## Tools
 
