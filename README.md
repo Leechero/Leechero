@@ -31,14 +31,13 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-005571?&style=for-the-badge&logo=tcpdump&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SentinelOne%20Singularity-6A0DAD?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
 </div>
 
 ### SIEM
@@ -46,6 +45,18 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk%20Enterprise-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-5A5A5A?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### System Monitoring
+<div>
+    <img src="https://img.shields.io/badge/-Task%20Manager-1E90FF?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process%20Hacker-2E8B57?&style=for-the-badge&logo=ProcessHacker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process%20Monitor-4B0082?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 </div>
 
 ## Certifications
@@ -56,4 +67,4 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 ## Projects
 - <a href="https://github.com/Leechero/Password-Policy-Enforcer">Password Policy Enforcer</a>
 - <a href="https://github.com/Leechero/Brute-Force-Detection-Script">Brute Force Detection</a>
-- Test Project
+- Phishing Email Identifier
