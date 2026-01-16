@@ -15,13 +15,18 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 |-----------------------------------------------|----------------------------|
 | Policy Implementation & Compliance                      | <a href="https://github.com/Leechero/Password-Policy-Enforcer">Password Policy Enforcer</a>|
 | Pattern Recognition & Anomaly Detection  | <a href="https://github.com/Leechero/Brute-Force-Detection-Script">Brute Force Detection</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Threat Awareness & Analytical Thinking         | Phishing Email Identifier|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Security                  | Simple Home Lab Firewall Rules|
+| Vulnerability Assessment | Vulnerability Scan Walkthrough|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -39,18 +44,13 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk%20Enterprise-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-5A5A5A?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CC-006699?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
