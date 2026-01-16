@@ -14,7 +14,7 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Password Policy Enforcer                      | <a href="https://github.com/Leechero/Password-Policy-Enforcer">Password Policy Enforcer</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -55,6 +55,6 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Leechero/Password-Policy-Enforcer">Password Policy Enforcer</a>
 - SOC Automation Project
 - Test Project
