@@ -18,6 +18,7 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 | Threat Awareness & Analytical Thinking         | <a href="https://github.com/Leechero/Phishing-Email-Identifier">Phishing Email Identifier</a>|
 | Incident Response Planning and Execution  1    | <a href="https://github.com/Leechero/DDOS-Playbook-Response">DDoS Playbook Response</a>|
 | Incident Response Planning and Execution 2     | <a href="https://github.com/Leechero/RDP-Brute-Force-Attack-Playbook-Response">RDP Brute-Force Attack Response</a>|
+| Incident Response Planning and Execution 3     | <a href="https://github.com/Leechero/Ransomware-Infection-Response">Ransomware Infection Response</a>|
 | Network Security                  | Simple Home Lab Firewall Rules|
 | Vulnerability Assessment | Vulnerability Scan Walkthrough|
 | Cloud                    | Deployed EC2 Instance on AWS |
@@ -72,3 +73,4 @@ My journey in Computer Engineering has led me to develop a passion for cybersecu
 - <a href="https://github.com/Leechero/Phishing-Email-Identifier">Phishing Email Identifier</a>
 - <a href="https://github.com/Leechero/DDOS-Playbook-Response">DDoS Playbook Response</a>
 - <a href="https://github.com/Leechero/RDP-Brute-Force-Attack-Playbook-Response">RDP Brute-Force Attack Response</a>
+- <a href="https://github.com/Leechero/Ransomware-Infection-Response">Ransomware Infection Response</a>
